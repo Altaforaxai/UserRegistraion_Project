@@ -101,7 +101,7 @@ namespace UserRegistraion_Project
 
             if (userExists)
             {
-                Console.WriteLine("User already exists. Please choose a different username.");
+                Console.WriteLine("Username already exists. Please choose a different username.");
             }
             else
             {
